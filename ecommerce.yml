@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: default_user_token
+  secret: remotegit_user_tokentest
 
 gateway:
-  ip: 127.0.0.1
+  ip: 127.0.0.1:8000

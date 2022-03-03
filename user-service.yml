@@ -16,4 +16,5 @@ order_service:
 
 test:
   config:
-    level: "server user-service.yml"
+    step1: "server user-service.yml"
+    step2: "server user-service.yml"

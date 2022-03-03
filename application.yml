@@ -1,5 +1,5 @@
 test:
   config:
-    step1: "server application.yml"
-    step2: "server application.yml"
-    step3: "server application.yml"
+    step7: "server application.yml"
+    step6: "server application.yml"
+    step5: "server application.yml"

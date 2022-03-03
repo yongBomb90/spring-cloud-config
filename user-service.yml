@@ -13,3 +13,7 @@ order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
   exception:
     orders_is_empty: no content
+
+test:
+  config:
+    level: "server user-service.yml"
